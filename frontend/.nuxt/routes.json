@@ -1,0 +1,14 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/timotheearnauld/Documents/onboarding-helm/frontend/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/timotheearnauld/Documents/onboarding-helm/frontend/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
